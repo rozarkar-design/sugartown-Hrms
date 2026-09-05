@@ -1,0 +1,6 @@
+{
+  "name": "Sugartown HRMS",
+  "description": "Complete, modern, and responsive Human Resource Management System for Sugartown Retail Private Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
